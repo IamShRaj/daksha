@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="poster2.png" alt="The Parrot of a Thousand Stars" width="100%">
+  <img src="poster3.png" alt="The Parrot of a Thousand Stars" width="100%">
   <h1>✨ The Parrot of a Thousand Stars ✨</h1>
   <p><em>"Love doesn't grow in the presence of each other—it grows in the absence."</em></p>
 </div>
