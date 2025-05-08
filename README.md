@@ -31,7 +31,7 @@ Experience the transformative power of love that can change not just two souls, 
 ### 📖 Embark on an Epic Journey of Love and Destiny
 
 <div align="center">
-  <img src="journey_map.png" alt="Journey Map" width="600">
+  <img src="journey_map.svg" alt="Journey Map" width="600">
 </div>
 
 #### ✨ Prologue: [Whispers of Destiny](prologue_whispers_of_destiny.md)
