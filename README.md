@@ -10,6 +10,11 @@
   <a href="prologue_whispers_of_destiny.md">🌟 Begin Reading</a>
 </div>
 
+<div align="center">
+  <a href="https://iamsh.gitbook.io/daksha" target="_blank">📱 Read Online</a> •
+  <a href="https://iamsh.gitbook.io/daksha/~gitbook/pdf?limit=100" target="_blank">📥 Download PDF</a>
+</div>
+
 ---
 
 ## 💫 About the Story
