@@ -1,5 +1,12 @@
 # Chapter 6: Starlight Revelation
 
+![Chapter 6 Illustration](assets/ch6.png)
+
+
+---
+
+
+
 The night of the meteor shower changed everything.
 
 Prince had been excited about it for weeks, marking the date on his calendar, reading everything he could find about the Perseids in the small town library. Daksha had listened to his enthusiastic explanations with what seemed like polite interest, but as the date approached, Prince noticed a change in her behavior.
