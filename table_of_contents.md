@@ -1,4 +1,4 @@
-# Daksha - The Parrot of a Thousand Stars
+# The Parrot of a Thousand Stars
 
 ## Table of Contents
 
