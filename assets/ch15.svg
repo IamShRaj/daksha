@@ -1,0 +1,224 @@
+<svg width="800" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a4a;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow effects -->
+    <filter id="emerald-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <filter id="text-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Fractured sky pattern -->
+    <pattern id="fracture-pattern" patternUnits="userSpaceOnUse" width="200" height="200">
+      <path d="M0,100 L200,150 M50,0 L150,200 M200,50 L0,150" stroke="#a0a0ff" stroke-width="0.5" fill="none" opacity="0.3" />
+      <path d="M100,0 L50,200 M0,50 L200,100" stroke="#8080ff" stroke-width="0.7" fill="none" opacity="0.2" />
+    </pattern>
+  </defs>
+  
+  <!-- Main background -->
+  <rect width="800" height="1000" fill="url(#bg-gradient)" />
+  <rect width="800" height="1000" fill="url(#fracture-pattern)" opacity="0.5" />
+  
+  <!-- Stars -->
+  <g id="stars">
+    <!-- Many small stars scattered across the background -->
+    <g fill="#ffffff">
+      <!-- First row -->
+      <circle cx="50" cy="50" r="1" opacity="0.8" />
+      <circle cx="120" cy="80" r="1.5" opacity="0.7" />
+      <circle cx="200" cy="30" r="1" opacity="0.9" />
+      <circle cx="280" cy="70" r="1.2" opacity="0.8" />
+      <circle cx="350" cy="40" r="1" opacity="0.7" />
+      <circle cx="420" cy="90" r="1.5" opacity="0.9" />
+      <circle cx="500" cy="60" r="1" opacity="0.8" />
+      <circle cx="580" cy="20" r="1.2" opacity="0.7" />
+      <circle cx="650" cy="80" r="1" opacity="0.9" />
+      <circle cx="720" cy="50" r="1.5" opacity="0.8" />
+      
+      <!-- More rows of stars throughout -->
+      <circle cx="30" cy="150" r="1" opacity="0.7" />
+      <circle cx="100" cy="180" r="1.2" opacity="0.9" />
+      <circle cx="170" cy="130" r="1" opacity="0.8" />
+      <circle cx="240" cy="170" r="1.5" opacity="0.7" />
+      <circle cx="310" cy="140" r="1" opacity="0.9" />
+      <circle cx="380" cy="190" r="1.2" opacity="0.8" />
+      <circle cx="450" cy="160" r="1" opacity="0.7" />
+      <circle cx="520" cy="120" r="1.5" opacity="0.9" />
+      <circle cx="590" cy="180" r="1" opacity="0.8" />
+      <circle cx="660" cy="150" r="1.2" opacity="0.7" />
+      <circle cx="730" cy="190" r="1" opacity="0.9" />
+      
+      <!-- And many more scattered throughout -->
+      <circle cx="50" cy="250" r="1.5" opacity="0.8" />
+      <circle cx="120" cy="280" r="1" opacity="0.7" />
+      <circle cx="200" cy="230" r="1.2" opacity="0.9" />
+      <circle cx="280" cy="270" r="1" opacity="0.8" />
+      <circle cx="350" cy="240" r="1.5" opacity="0.7" />
+      <circle cx="420" cy="290" r="1" opacity="0.9" />
+      <circle cx="500" cy="260" r="1.2" opacity="0.8" />
+      <circle cx="580" cy="220" r="1" opacity="0.7" />
+      <circle cx="650" cy="280" r="1.5" opacity="0.9" />
+      <circle cx="720" cy="250" r="1" opacity="0.8" />
+      
+      <!-- Bottom section stars -->
+      <circle cx="80" cy="750" r="1.2" opacity="0.7" />
+      <circle cx="150" cy="780" r="1" opacity="0.9" />
+      <circle cx="220" cy="730" r="1.5" opacity="0.8" />
+      <circle cx="290" cy="770" r="1" opacity="0.7" />
+      <circle cx="360" cy="740" r="1.2" opacity="0.9" />
+      <circle cx="430" cy="790" r="1" opacity="0.8" />
+      <circle cx="500" cy="760" r="1.5" opacity="0.7" />
+      <circle cx="570" cy="720" r="1" opacity="0.9" />
+      <circle cx="640" cy="780" r="1.2" opacity="0.8" />
+      <circle cx="710" cy="750" r="1" opacity="0.7" />
+      
+      <circle cx="60" cy="850" r="1" opacity="0.9" />
+      <circle cx="130" cy="880" r="1.5" opacity="0.8" />
+      <circle cx="200" cy="830" r="1" opacity="0.7" />
+      <circle cx="270" cy="870" r="1.2" opacity="0.9" />
+      <circle cx="340" cy="840" r="1" opacity="0.8" />
+      <circle cx="410" cy="890" r="1.5" opacity="0.7" />
+      <circle cx="480" cy="860" r="1" opacity="0.9" />
+      <circle cx="550" cy="820" r="1.2" opacity="0.8" />
+      <circle cx="620" cy="880" r="1" opacity="0.7" />
+      <circle cx="690" cy="850" r="1.5" opacity="0.9" />
+      
+      <circle cx="40" cy="950" r="1.2" opacity="0.8" />
+      <circle cx="110" cy="980" r="1" opacity="0.7" />
+      <circle cx="180" cy="930" r="1.5" opacity="0.9" />
+      <circle cx="250" cy="970" r="1" opacity="0.8" />
+      <circle cx="320" cy="940" r="1.2" opacity="0.7" />
+      <circle cx="390" cy="990" r="1" opacity="0.9" />
+      <circle cx="460" cy="960" r="1.5" opacity="0.8" />
+      <circle cx="530" cy="920" r="1" opacity="0.7" />
+      <circle cx="600" cy="980" r="1.2" opacity="0.9" />
+      <circle cx="670" cy="950" r="1" opacity="0.8" />
+      <circle cx="740" cy="990" r="1.5" opacity="0.7" />
+    </g>
+  </g>
+  
+  <!-- Fractured sky with silver cracks -->
+  <g id="fractured-sky">
+    <path d="M100,100 L300,50 L500,150 L700,80" stroke="#c0c0ff" stroke-width="2" fill="none" opacity="0.6" />
+    <path d="M200,30 L400,180 L600,70" stroke="#d0d0ff" stroke-width="3" fill="none" opacity="0.5" />
+    <path d="M150,200 L350,100 L550,220 L750,150" stroke="#b0b0ff" stroke-width="2" fill="none" opacity="0.7" />
+    <path d="M50,150 L250,250 L450,120 L650,230" stroke="#a0a0ff" stroke-width="3" fill="none" opacity="0.6" />
+  </g>
+  
+  <!-- Central figures - Prince and allies channeling energy -->
+  <g id="central-figures">
+    <!-- Central energy sphere -->
+    <circle cx="400" cy="500" r="150" fill="#4CAF50" opacity="0.3" filter="url(#emerald-glow)" />
+    <circle cx="400" cy="500" r="120" fill="#4CAF50" opacity="0.4" filter="url(#emerald-glow)" />
+    <circle cx="400" cy="500" r="90" fill="#4CAF50" opacity="0.5" filter="url(#emerald-glow)" />
+    
+    <!-- Prince silhouette at center -->
+    <path d="M400,440 C410,440 420,445 425,455 C430,465 430,475 425,485 C420,495 410,500 400,500 
+             L400,550 C390,550 385,545 380,540 C375,535 370,530 370,520 C370,510 375,505 380,500 
+             C385,495 390,490 400,490 Z" 
+          fill="#000000" opacity="0.7" />
+    
+    <!-- Daksha energy form -->
+    <path d="M400,440 C390,430 385,420 390,410 C395,400 405,395 415,400 C425,405 430,415 425,425 
+             C420,435 410,440 400,440 Z"
+          fill="#FFD700" opacity="0.8" filter="url(#emerald-glow)" />
+    
+    <!-- Energy beams from allies -->
+    <path d="M400,500 L250,650" stroke="#4CAF50" stroke-width="10" opacity="0.6" />
+    <path d="M400,500 L550,650" stroke="#4CAF50" stroke-width="10" opacity="0.6" />
+    <path d="M400,500 L300,700" stroke="#4CAF50" stroke-width="8" opacity="0.5" />
+    <path d="M400,500 L500,700" stroke="#4CAF50" stroke-width="8" opacity="0.5" />
+    <path d="M400,500 L200,600" stroke="#4CAF50" stroke-width="6" opacity="0.4" />
+    <path d="M400,500 L600,600" stroke="#4CAF50" stroke-width="6" opacity="0.4" />
+    
+    <!-- Ally silhouettes -->
+    <circle cx="250" cy="650" r="20" fill="#000000" opacity="0.7" />
+    <circle cx="550" cy="650" r="20" fill="#000000" opacity="0.7" />
+    <circle cx="300" cy="700" r="15" fill="#000000" opacity="0.7" />
+    <circle cx="500" cy="700" r="15" fill="#000000" opacity="0.7" />
+    <circle cx="200" cy="600" r="15" fill="#000000" opacity="0.7" />
+    <circle cx="600" cy="600" r="15" fill="#000000" opacity="0.7" />
+  </g>
+  
+  <!-- Velorian figure (Daksha-copy) -->
+  <g id="velorian-figure">
+    <path d="M400,300 C410,290 425,285 440,290 C455,295 465,310 460,325 
+             C455,340 440,350 425,345 C410,340 400,325 405,310 Z" 
+          fill="#C0C0C0" opacity="0.8" />
+    <circle cx="425" cy="310" r="5" fill="#FFFFFF" opacity="0.9" /> <!-- Silver eye -->
+    <path d="M400,300 L400,350" stroke="#C0C0C0" stroke-width="3" opacity="0.8" /> <!-- Body -->
+    <path d="M400,320 L380,340" stroke="#C0C0C0" stroke-width="2" opacity="0.8" /> <!-- Arm -->
+    <path d="M400,320 L420,340" stroke="#C0C0C0" stroke-width="2" opacity="0.8" /> <!-- Arm -->
+  </g>
+  
+  <!-- Counter-anchors of emerald light -->
+  <g id="counter-anchors">
+    <circle cx="200" cy="400" r="15" fill="#4CAF50" opacity="0.7" filter="url(#emerald-glow)" />
+    <circle cx="600" cy="400" r="15" fill="#4CAF50" opacity="0.7" filter="url(#emerald-glow)" />
+    <circle cx="300" cy="300" r="12" fill="#4CAF50" opacity="0.6" filter="url(#emerald-glow)" />
+    <circle cx="500" cy="300" r="12" fill="#4CAF50" opacity="0.6" filter="url(#emerald-glow)" />
+    <circle cx="150" cy="500" r="10" fill="#4CAF50" opacity="0.5" filter="url(#emerald-glow)" />
+    <circle cx="650" cy="500" r="10" fill="#4CAF50" opacity="0.5" filter="url(#emerald-glow)" />
+  </g>
+  
+  <!-- Silver Velorian anchors -->
+  <g id="velorian-anchors">
+    <polygon points="250,200 270,220 250,240 230,220" fill="#C0C0C0" opacity="0.6" />
+    <polygon points="550,200 570,220 550,240 530,220" fill="#C0C0C0" opacity="0.6" />
+    <polygon points="350,150 370,170 350,190 330,170" fill="#C0C0C0" opacity="0.5" />
+    <polygon points="450,150 470,170 450,190 430,170" fill="#C0C0C0" opacity="0.5" />
+    <polygon points="400,100 420,120 400,140 380,120" fill="#C0C0C0" opacity="0.7" />
+  </g>
+  
+  <!-- Central node -->
+  <g id="central-node">
+    <polygon points="400,200 430,230 400,260 370,230" fill="#C0C0C0" opacity="0.9" />
+    <circle cx="400" cy="230" r="15" fill="#FFFFFF" opacity="0.5" />
+    <path d="M385,215 L415,245 M385,245 L415,215" stroke="#FFFFFF" stroke-width="2" opacity="0.8" />
+  </g>
+  
+  <!-- Energy waves -->
+  <g id="energy-waves">
+    <circle cx="400" cy="500" r="200" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.2" />
+    <circle cx="400" cy="500" r="250" stroke="#4CAF50" stroke-width="1.5" fill="none" opacity="0.15" />
+    <circle cx="400" cy="500" r="300" stroke="#4CAF50" stroke-width="1" fill="none" opacity="0.1" />
+  </g>
+  
+  <!-- Title and text -->
+  <g id="text">
+    <text x="400" y="850" font-family="Arial" font-size="60" fill="#FFFFFF" text-anchor="middle" filter="url(#text-glow)">CHAPTER 15</text>
+    <text x="400" y="920" font-family="Arial" font-size="40" fill="#4CAF50" text-anchor="middle" filter="url(#text-glow)">THE POWER OF TWO</text>
+    
+    <text x="400" y="970" font-family="Arial" font-size="16" fill="#FFFFFF" text-anchor="middle" font-style="italic">
+      "Together, they stood against the void."
+    </text>
+  </g>
+  
+  <!-- Subtle golden-emerald gradient overlay for visual richness -->
+  <rect width="800" height="1000" fill="url(#bg-gradient)" opacity="0.1" />
+  
+  <!-- Additional decorative elements -->
+  <g id="decorative-elements">
+    <!-- Corner flourishes -->
+    <path d="M50,50 C70,30 100,30 120,50" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    <path d="M50,50 C30,70 30,100 50,120" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    
+    <path d="M750,50 C730,30 700,30 680,50" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    <path d="M750,50 C770,70 770,100 750,120" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    
+    <path d="M50,950 C70,970 100,970 120,950" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    <path d="M50,950 C30,930 30,900 50,880" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    
+    <path d="M750,950 C730,970 700,970 680,950" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+    <path d="M750,950 C770,930 770,900 750,880" stroke="#4CAF50" stroke-width="2" fill="none" opacity="0.5" />
+  </g>
+</svg>
