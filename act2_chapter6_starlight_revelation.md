@@ -186,7 +186,11 @@ She took a step closer, eliminating the last of the distance between them. Princ
 
 Prince nodded, his heart hammering so hard he was sure she could hear it. Daksha leaned down, her movements slow and deliberate, giving him time to pull away if he wanted to. But pulling away was the last thing on Prince's mind.
 
-When their lips met, it was like nothing Prince had ever experienced—not that he had much to compare it to, having never been kissed before. But he was certain that no ordinary kiss could feel like this—like being filled with light, with warmth, with a connection so profound it transcended the physical.
+When their lips met, time seemed to stand still. The gentle night breeze carried the sweet scent of jasmine, and the meteors painted the sky with streaks of silver light, creating a magical ambiance around them. Prince's heart thundered in his chest as he experienced his first kiss—a moment both tender and electric. Daksha's lips were impossibly soft, cool like starlight yet warming his entire being from within.
+
+The world around them faded into a kaleidoscope of sensations: the subtle glow emanating from Daksha's skin illuminated their intimate moment, while the distant chorus of jungle creatures provided a gentle symphony. Each point of contact between them sparked with energy—her hands on his shoulders, his fingers gently cupping her face. The kiss deepened naturally, like two stars drawn together by gravity, and Prince felt as if he was touching pure magic.
+
+It was unlike anything he could have imagined—not just a meeting of lips, but a fusion of souls. Like being filled with liquid starlight, with warmth, with a connection so profound it transcended the physical realm. Through their touch, he could feel every emotion Daksha had discovered in her exile: joy, wonder, longing, and most powerfully, love.
 
 He felt that now-familiar rush of shared emotions—joy, wonder, desire, love—flowing between them like a current. But stronger than ever before, more focused, more intense. It was overwhelming in the best possible way, like drowning in starlight.
 
