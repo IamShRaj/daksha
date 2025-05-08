@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DAKSHA](README.md)
+* [Prologue: Whispers of Destiny](prologue_whispers_of_destiny.md)
 * [Chapter 1: Shadows of Solitude](act1_chapter1_shadows_of_solitude.md)
 * [Chapter 2: The Emerald Encounter](act1_chapter2_the_emerald_encounter.md)
 * [Chapter 3: Voices in the Wilderness](act1_chapter3_voices_in_the_wilderness.md)
@@ -21,5 +22,4 @@
 * [Chapter 18: Stardust and Tears](act5_chapter18_stardust_and_tears.md)
 * [The Emotional Tapestry of a Thousand Stars](emotions.md)
 * [Epilogue: Embers of Vengeance](epilogue_embers_of_vengeance.md)
-* [Prologue: Whispers of Destiny](prologue_whispers_of_destiny.md)
 * [The Parrot of a Thousand Stars: Story Summary](summary.md)
