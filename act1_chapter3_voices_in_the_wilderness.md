@@ -1,5 +1,7 @@
 # Chapter 3: Voices in the Wilderness
 
+![Chapter 3 Illustration](assets/ch3.png)
+
 Prince woke to the soft sound of humming—a melody he didn't recognize but that seemed hauntingly familiar nonetheless. For a moment, he thought he was dreaming, that the events of the previous day had been a product of his lonely imagination.
 
 Then he opened his eyes and saw Daksha perched on his windowsill, the morning light catching in her emerald feathers, creating prismatic patterns on his bedroom wall.

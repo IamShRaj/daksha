@@ -1,5 +1,7 @@
 # Chapter 1: Shadows of Solitude
 
+![Logo](assets/logo.png)
+
 Prince wasn't always alone.
 
 There was a time—fading now like an old photograph—when he had a family. A mother who sang to him at night. A father who carried him on his shoulders. A home that felt warm and safe.

@@ -1,5 +1,7 @@
 # Chapter 2: The Emerald Encounter
 
+![Chapter 1 Illustration](assets/ch1.png)
+
 "Help me."
 
 The words hung in the air between them, impossible yet undeniable. Prince stood frozen, his mind racing to make sense of what he had just heard. Parrots could mimic human speech—he knew that—but this was different. The words hadn't been a mindless repetition; they had been a plea. Deliberate. Conscious.

@@ -1,5 +1,7 @@
 # Chapter 4: Feathers of Trust
 
+![Chapter 4 Illustration](assets/ch4.png)
+
 Days turned into weeks, and Prince's life transformed in ways he could never have imagined. Daksha's wing was healing well—the splint had come off after two weeks, though she still favored it when moving. But more importantly, a friendship unlike any Prince had ever known blossomed between them.
 
 Every morning, Prince woke to Daksha's soft humming—those strange, haunting melodies from her world that somehow made his small bedroom feel like a sanctuary. Every evening, they talked for hours, Daksha perched on his shoulder or the headboard of his bed, Prince lying back and staring at the ceiling as they exchanged stories.
