@@ -190,6 +190,16 @@ When their lips met, time seemed to stand still. The gentle night breeze carried
 
 The world around them faded into a kaleidoscope of sensations: the subtle glow emanating from Daksha's skin illuminated their intimate moment, while the distant chorus of jungle creatures provided a gentle symphony. Each point of contact between them sparked with energy—her hands on his shoulders, his fingers gently cupping her face. The kiss deepened naturally, like two stars drawn together by gravity, and Prince felt as if he was touching pure magic.
 
+The universe exploded into a supernova of sensation. Time ceased to exist, reality melted away, and all that remained was this singular, earth-shattering moment. The night air crackled with electricity, each meteor streak igniting the sky like fireworks celebrating their union. Prince's heart no longer merely thundered—it threatened to burst from his chest, overwhelmed by the tidal wave of emotion crashing through him.
+
+Daksha's lips were a revelation—impossibly soft yet burning with an otherworldly heat that seared his very soul. Her taste was intoxicating, a mixture of stardust and wild honey that left him dizzy and desperate for more. Every nerve in his body came alive, hypersensitive to her touch—her hands on his shoulders sent shockwaves through him, while his fingers, trembling as they cupped her face, felt like they were touching pure, unfiltered magic.
+
+The world around them didn't just fade—it ceased to exist entirely. There was only Daksha, only this kiss, only this all-consuming, reality-altering connection between them. As the kiss deepened, Prince felt as if he was being unmade and remade, molecule by molecule, into something new, something more. It was terrifying and exhilarating, like free-falling through space and knowing you'll never hit the ground.
+
+Through their joined lips, Prince could feel every emotion Daksha had ever experienced flooding into him—her joy, her wonder, her longing, her love. But more than that, he could feel the very essence of her being merging with his own. It was a fusion of souls so profound, so earth-shatteringly intense, that he knew he would never be the same again. This wasn't just a kiss—it was a rebirth, a revelation, a rewriting of the very fabric of his existence.
+
+As they clung to each other under the meteor-streaked sky, Prince knew with absolute certainty that he would spend the rest of his life chasing this feeling, this connection, this love. Nothing else would ever compare. Nothing else would ever be enough.
+
 It was unlike anything he could have imagined—not just a meeting of lips, but a fusion of souls. Like being filled with liquid starlight, with warmth, with a connection so profound it transcended the physical realm. Through their touch, he could feel every emotion Daksha had discovered in her exile: joy, wonder, longing, and most powerfully, love.
 
 He felt that now-familiar rush of shared emotions—joy, wonder, desire, love—flowing between them like a current. But stronger than ever before, more focused, more intense. It was overwhelming in the best possible way, like drowning in starlight.
