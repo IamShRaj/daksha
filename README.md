@@ -1,5 +1,11 @@
 # Daksha - The Parrot of a Thousand Stars
 
+An emotional love story about Prince, a lonely boy who finds a magical parrot named Daksha in the jungle. As their bond deepens, Prince discovers that Daksha is actually an exiled being from another dimension. Their love transcends forms, dimensions, and even death itself.
+
+This story explores the profound truth that love doesn't grow in the presence of each other—it grows in the absence. Through separation, conflict, and ultimate sacrifice, Prince and Daksha discover that once you find true love, you never let it go, even when the universe itself stands against you.
+
+Journey through their extraordinary tale of connection, from their first meeting in the jungle to their final sacrifice to save Earth from the emotionless Velorian invasion. Experience the transformative power of love that can change not just two souls, but entire worlds.
+
 ## Table of Contents
 
 ### Prologue
