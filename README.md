@@ -10,7 +10,7 @@ description: Love grows in the silence of absence. - Sh
 
 _"Love doesn't grow in the presence of each other—it grows in the absence."_
 
-[📖 Full Summary](summary.md) • [📚 Table of Contents](table_of_contents.md) • [🌟 Begin Reading](prologue_whispers_of_destiny.md) • [📱 Read Online](https://iamsh.gitbook.io/daksha) • [📥 Download PDF](https://iamsh.gitbook.io/daksha/~gitbook/pdf?limit=100)
+[📖 Full Summary](summary.md) • [📚 Table of Contents](table_of_contents.md) • [🌟 Begin Reading](prologue_whispers_of_destiny.md) • [📱 Read Online](https://iamsh.gitbook.io/daksha) • [📥 Download PDF](https://iamsh.gitbook.io/daksha/~gitbook/pdf?limit=100) • [🔗 Part 2](https://iamsh.gitbook.io/prince)
 
 ***
 
